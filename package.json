@@ -1,0 +1,23 @@
+{
+  "name": "lablibrarymanagement",
+  "version": "1.0.0",
+  "description": "Lab assignment for library management system",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esharper/Lab-Assignment-Create-a-Library-Management-System.git"
+  },
+  "keywords": [
+    "library",
+    "management"
+  ],
+  "author": "Elgin Sharper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esharper/Lab-Assignment-Create-a-Library-Management-System/issues"
+  },
+  "homepage": "https://github.com/Esharper/Lab-Assignment-Create-a-Library-Management-System#readme"
+}
